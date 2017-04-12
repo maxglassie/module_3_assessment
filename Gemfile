@@ -12,12 +12,24 @@ gem "faker"
 gem "therubyracer"
 gem "less-rails-bootstrap"
 gem "minitest-rails"
+gem 'faraday'
+gem 'figaro'
+gem 'awesome_print'
 
 group :development do
   gem "spring"
+  gem 'listen', '~> 3.0.5'
 end
 
 group :development, :test do
   gem "minitest-rails-capybara"
   gem "pry", :require => "pry"
+  gem 'byebug'
+  gem 'rspec-rails', '~> 3.5'
+  gem 'better_errors'
+  gem 'binding_of_caller'
+  gem 'vcr'
+  gem 'webmock'
+  gem 'capybara'
+  gem 'launchy'
 end
