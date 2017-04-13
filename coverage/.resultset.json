@@ -26,7 +26,7 @@
       "/Users/maxglassie/turing/3module/diagnostic/storedom/app/controllers/api/v1/items_controller.rb": [
         1,
         1,
-        0,
+        1,
         null,
         null
       ],
@@ -34,6 +34,11 @@
         1,
         null,
         null,
+        1,
+        null
+      ],
+      "/Users/maxglassie/turing/3module/diagnostic/storedom/app/serializers/items_serializer.rb": [
+        1,
         1,
         null
       ],
@@ -90,6 +95,6 @@
         0
       ]
     },
-    "timestamp": 1492096571
+    "timestamp": 1492097305
   }
 }

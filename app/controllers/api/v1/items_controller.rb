@@ -1,6 +1,5 @@
 class Api::V1::ItemsController < ApplicationController
   def index
-    binding.pry
-    render json: Item.all
+    render json: Item.all, each_serializer: ItemsSerializer
   end
 end

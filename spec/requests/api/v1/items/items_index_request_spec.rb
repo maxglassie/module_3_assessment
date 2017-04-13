@@ -8,7 +8,7 @@ describe "get request returns all items" do
     item_3 = Item.create(name: "we_the_best_3", description: "Bless Up_3", image_url: "http://cdn.shopify.com/s/files/1/1055/0970/products/blessu-charger-1_large.jpg?v=1469807910")
 
     get '/api/v1/items'
-    binding.pry
+
     expect(response).to be_success
 
     items = JSON.parse(response.body)
