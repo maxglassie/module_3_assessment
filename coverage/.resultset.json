@@ -17,38 +17,14 @@
         1,
         null
       ],
-      "/Users/maxglassie/turing/3module/diagnostic/storedom/app/controllers/api/v1/items_controller.rb": [
+      "/Users/maxglassie/turing/3module/diagnostic/storedom/app/controllers/items_controller.rb": [
         1,
         1,
-        0,
-        null,
-        null,
         1,
-        0,
         null,
         null,
         1,
         0,
-        0,
-        0,
-        null,
-        0,
-        null,
-        null,
-        null,
-        1,
-        1,
-        1,
-        1,
-        null,
-        0,
-        null,
-        null,
-        null,
-        1,
-        null,
-        1,
-        1,
         null,
         null
       ],
@@ -65,12 +41,31 @@
         1,
         null
       ],
-      "/Users/maxglassie/turing/3module/diagnostic/storedom/app/serializers/item_serializer.rb": [
-        1,
-        1,
-        null
-      ],
-      "/Users/maxglassie/turing/3module/diagnostic/storedom/app/controllers/items_controller.rb": [
+      "/Users/maxglassie/turing/3module/diagnostic/storedom/app/controllers/api/v1/items_controller.rb": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         0,
         0,
         0,
@@ -122,12 +117,17 @@
         0,
         0
       ],
+      "/Users/maxglassie/turing/3module/diagnostic/storedom/app/serializers/item_serializer.rb": [
+        0,
+        0,
+        0
+      ],
       "/Users/maxglassie/turing/3module/diagnostic/storedom/app/serializers/items_serializer.rb": [
         0,
         0,
         0
       ]
     },
-    "timestamp": 1492100412
+    "timestamp": 1492101985
   }
 }

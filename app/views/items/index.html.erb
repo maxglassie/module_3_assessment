@@ -4,6 +4,17 @@
       <h1><%= @items.count %> Items</h1>
     </div>
   </div>
+  <div class="row">
+    <div class="col-sm-12">
+      <div class="search">
+        <%= form_tag('/search') do %>
+        <div>
+          <%= search_field_tag 'Search' %>
+        </div>
+        <% end %>
+      </div>
+    </div>
+  </div>
   <div class="row"></div>
   <% @items.each do |item| %>
     <div class="col-sm-3">
