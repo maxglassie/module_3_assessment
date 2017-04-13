@@ -2,6 +2,7 @@ class WorldBankService
 
   def initialize
     @connection = Faraday.new(url: "http://api.worldbank.org/")
+    binding.pry
   end
 
   def country
