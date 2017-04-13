@@ -32,4 +32,10 @@ group :development, :test do
   gem 'webmock'
   gem 'capybara'
   gem 'launchy'
+  gem 'fabrication'
+  gem 'shoulda-matchers', '~> 3.1'
+end
+
+group :test do
+  gem 'database_cleaner'
 end
