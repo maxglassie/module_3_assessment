@@ -41,6 +41,31 @@
         1,
         null
       ],
+      "/Users/maxglassie/turing/3module/diagnostic/storedom/app/controllers/search_controller.rb": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        null,
+        null
+      ],
+      "/Users/maxglassie/turing/3module/diagnostic/storedom/app/services/best_buy_service.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
       "/Users/maxglassie/turing/3module/diagnostic/storedom/app/controllers/api/v1/items_controller.rb": [
         0,
         0,
@@ -128,6 +153,6 @@
         0
       ]
     },
-    "timestamp": 1492101985
+    "timestamp": 1492104503
   }
 }
