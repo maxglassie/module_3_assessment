@@ -1,0 +1,102 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/maxglassie/turing/3module/diagnostic/storedom/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/maxglassie/turing/3module/diagnostic/storedom/app/helpers/items_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/maxglassie/turing/3module/diagnostic/storedom/app/helpers/orders_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/maxglassie/turing/3module/diagnostic/storedom/app/helpers/users_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/maxglassie/turing/3module/diagnostic/storedom/app/services/world_bank_service.rb": [
+        1,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/maxglassie/turing/3module/diagnostic/storedom/app/controllers/application_controller.rb": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/maxglassie/turing/3module/diagnostic/storedom/app/controllers/items_controller.rb": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/maxglassie/turing/3module/diagnostic/storedom/app/controllers/orders_controller.rb": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/maxglassie/turing/3module/diagnostic/storedom/app/controllers/users_controller.rb": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/maxglassie/turing/3module/diagnostic/storedom/app/models/item.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/maxglassie/turing/3module/diagnostic/storedom/app/models/order.rb": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/maxglassie/turing/3module/diagnostic/storedom/app/models/order_item.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/maxglassie/turing/3module/diagnostic/storedom/app/models/user.rb": [
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1492093382
+  }
+}

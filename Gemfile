@@ -15,6 +15,7 @@ gem "minitest-rails"
 gem 'faraday'
 gem 'figaro'
 gem 'awesome_print'
+gem 'active_model_serializers', '~> 0.10.0'
 
 group :development do
   gem "spring"
@@ -34,6 +35,7 @@ group :development, :test do
   gem 'launchy'
   gem 'fabrication'
   gem 'shoulda-matchers', '~> 3.1'
+  gem 'simplecov', :require => false, :group => :test
 end
 
 group :test do
