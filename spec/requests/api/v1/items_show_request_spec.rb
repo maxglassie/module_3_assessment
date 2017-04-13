@@ -20,6 +20,6 @@ describe "get request an item" do
     expect(item).to_not have_key "updated_at"
 
     expect(item["name"]).to eq("we_the_best_2")
-    expect(item["description"]).to eq("we_the_best_2")
+    expect(item["description"]).to eq("Bless Up_2")
   end
 end
