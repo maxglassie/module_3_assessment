@@ -29,7 +29,6 @@ group :development, :test do
   gem 'rspec-rails', '~> 3.5'
   gem 'better_errors'
   gem 'binding_of_caller'
-  gem 'vcr'
   gem 'webmock'
   gem 'capybara'
   gem 'launchy'

@@ -46,6 +46,10 @@
         1,
         1,
         1,
+        1,
+        10,
+        null,
+        1,
         null,
         null
       ],
@@ -56,11 +60,25 @@
         1,
         1,
         1,
+        1,
         null,
         null,
         1,
         1,
         1,
+        null,
+        null
+      ],
+      "/Users/maxglassie/turing/3module/diagnostic/storedom/app/models/store.rb": [
+        1,
+        1,
+        null,
+        1,
+        10,
+        10,
+        10,
+        10,
+        10,
         null,
         null
       ],
@@ -151,6 +169,6 @@
         0
       ]
     },
-    "timestamp": 1492106238
+    "timestamp": 1492123855
   }
 }
