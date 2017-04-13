@@ -15,4 +15,20 @@ class Api::V1::ItemsController < ApplicationController
       render :status => 404
     end
   end
+
+  def create
+    binding.pry
+    @item = Item.new(items_params)
+    if @item.save
+      render json: @item, each_serializer: ItemSerializer, :status => 201
+    else
+      render :status => 404
+    end
+  end
+
+  private
+
+  def items_params
+    params.permit(:name, :description, :image_url)
+  end
 end
