@@ -23,7 +23,7 @@ describe "post request creates an item" do
 
     item_find = Item.all
 
-    expect(item_find.name).to eq("we_the_best")
-    expect(item_find.description).to eq("bless_up")
+    expect(item_find.first.name).to eq("we_the_best")
+    expect(item_find.first.description).to eq("bless_up")
   end
 end

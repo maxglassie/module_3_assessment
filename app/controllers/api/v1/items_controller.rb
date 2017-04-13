@@ -17,7 +17,6 @@ class Api::V1::ItemsController < ApplicationController
   end
 
   def create
-    binding.pry
     @item = Item.new(items_params)
     if @item.save
       render json: @item, each_serializer: ItemSerializer, :status => 201
